@@ -1,0 +1,20 @@
+{
+    "thread": {
+        "quantity" : 1,
+        "accountPerThread" : 2,
+        "isTest" : false
+    },
+    "chromeDriver": {
+        "undetected": {
+            "isActive": true
+        },
+        "normal" : {
+            "version" : "124",
+            "os" : "mac"
+        }
+    },
+    "birthDay": {
+        "month": 5,
+        "day": 20
+    }
+}

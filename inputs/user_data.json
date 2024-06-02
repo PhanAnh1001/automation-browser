@@ -1,0 +1,6 @@
+{
+    "emailStore" : ["@spabeauty.shop", "@proxycheap.live", "@muagit.com"],
+    "firstNameStore" : ["John", "Jane", "Jack", "Jill", "James", "Judy"],
+    "lastNameStore" : ["Doe", "Smith", "Johnson", "Brown", "Williams", "Jones"],
+    "passwordStore" : "zackbazan"
+}

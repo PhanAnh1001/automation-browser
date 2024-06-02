@@ -1,0 +1,7 @@
+__pycache__/
+inputs/.DS_Store
+chrome-driver/.*
+outputs/
+inputs/grid-capcha-images
+inputs/config_secret.json
+build/
